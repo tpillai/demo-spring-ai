@@ -1,4 +1,6 @@
 # Demo Application for Spring AI
+##you tube 
+https://www.youtube.com/watch?v=SdP2AFWyOr4
 
 ## Setup
 * When using OpenAI, setup your API key with this environment variable: OPENAI_API_KEY
